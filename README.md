@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Teddy Oliver
 #### I am an aspiring Frontend Developer/Software Engineer.
-![I am an aspiring Frontend Developer/Software Engineer.]
+
 [<img src='Teddy Oliver.png' alt='website'>](https://theodore-oliver.com)
 
 I'm Teddy. I enjoy creating webpages.
