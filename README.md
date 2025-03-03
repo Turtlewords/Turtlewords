@@ -10,5 +10,5 @@ Skills: JS / HTML / CSS
 - 🌱 I’m currently learning Tailwind and React 
 
 
-[<a href="https://theodore-oliver.com" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'></a>](https://theodore-oliver.com)  
+[<img src='Teddy Oliver.png' alt='website' height='40'>](https://theodore-oliver.com)  
 
